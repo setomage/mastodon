@@ -27,6 +27,9 @@
 .env.production
 node_modules/
 /build/
+/public.old/
+.env.production.save
+
 
 # Ignore Vagrant files
 .vagrant/
